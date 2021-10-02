@@ -17,7 +17,7 @@
 
 ## Hacktoberfest-2k21 bash :
 Do you have a solution for a problem which isn't already present? Want to complete four PRs for Hacktoberbest-2k21.<br>
-<a href="https://discord.gg/hacktoberfest">Hacktoberfest Official Discord Server</a>
+<a href="https://discord.gg/hacktoberfest">Hacktoberfest Official Discord Server</a><br>
 <a href="https://hacktoberfest.digitalocean.com/">Check your current hacktoberfest progress</a>
 
 
