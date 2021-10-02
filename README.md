@@ -11,5 +11,5 @@
 - Mention your name in form of a comment inside your code. 
 
 ## Hacktoberfest-2k21 bash :
-Do you have a solution for a problem which isn't already present? Want to complete four PRs for Hacktoberbest-2k21. 
-<p><a href="https://hacktoberfest.digitalocean.com/">Check your current hacktoberfest progress</a></p>
+Do you have a solution for a problem which isn't already present? Want to complete four PRs for Hacktoberbest-2k21.<br>
+<a href="https://hacktoberfest.digitalocean.com/">Check your current hacktoberfest progress</a>
